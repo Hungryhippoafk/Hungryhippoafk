@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hungryhippoafk
 - 👀 I’m interested in Movies,Games,Music
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript,HTML,CSS,C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: He/Him
